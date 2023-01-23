@@ -8,7 +8,7 @@ import profilepic from './profile1.png'
 function Home() {
   return (
     <div>
-      <Container className="p-2">
+      <Container className="mt-5 p-2 ">
         <Row className='m-2 align-items-center'>
           <Col xs={12} sm={4} md={4}>
           <Image fluid className='align-items-center' src={profilepic} alt="..." />          
@@ -18,7 +18,7 @@ function Home() {
             <p className="fs-2 m-1 p-1">
               Software Engineer - Lighting Designer - Production Manager
             </p>
-            <p className="fs-3">
+            <p className="fs-3 fw-semibold">
               San Diego, California
             </p>
           </div>
