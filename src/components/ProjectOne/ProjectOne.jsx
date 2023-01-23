@@ -11,15 +11,15 @@ function ProjectOne() {
         <div>
             <Row className='m-1'>
                 <p className="fs-2">
-                    Browser Based Game – <strong>Blackjack</strong>
+                    Blackjack! – <strong>Browser Based Game</strong>
                 </p>
             </Row>
             <Row>
-                <Col xs={12} sm={4} md={4}>
+                <Col xs={12} sm={12} md={12} lg={8}>
 
                     <Image fluid thumbnail src={project1pic} alt="..." />
                 </Col>
-                <Col xs={12} sm={4} md={4}>
+                <Col xs={12} sm={12} md={12}  lg={4}>
                     <div>
                         <p className="fs-2">
                             <span className="text-wrap">Single page web application featuring a fun take on the classic card game.  Built using HTML5, CSS3, JavaScript ES6</span></p>

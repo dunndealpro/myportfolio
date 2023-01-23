@@ -11,15 +11,15 @@ function ProjectThree() {
         <div>
             <Row>
                 <p className="fs-1">
-                MyWatch List – <strong>Full stack MERN CRUD SPA</strong>
+                MyWatch List – <strong>Full Stack MERN CRUD SPA</strong>
                 </p>
             </Row>
             <Row>
-                <Col xs={12} sm={4} md={4}>
+                <Col xs={12} sm={12} md={12} lg={8}>
 
                     <Image fluid thumbnail src={project3pic} alt="..." />
                 </Col>
-                <Col xs={12} sm={4} md={4}>
+                <Col xs={12} sm={12} md={12} lg={4}>
                     <div>
                         <p className="fs-2">
                             <span className="text-wrap">Full stack MERN CRUD SPA  where a user search for movies and can create, read, update and delete lists of movies they want to watch. Built using Mongoose, MongoDB, Express, React, Node.js HTML5, CSS3, JavaScript ES6, Token-Based Authentication</span></p>

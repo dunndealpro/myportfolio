@@ -14,7 +14,7 @@ import Col from 'react-bootstrap/Col';
 function ContactMe() {
   return (
     <div>
-      <Container   className="mb-5">
+      <Container  fluid className="mb-5">
         <Row>
         <h1>Contact</h1>
         </Row>

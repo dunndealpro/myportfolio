@@ -11,15 +11,15 @@ function ProjectTwo() {
         <div>
             <Row>
                 <p className="fs-1">
-                Event/Gig Tracker – <strong>Full stack MEN - CRUD application</strong>
+                Event/Gig Tracker – <strong>Full Stack MEN - CRUD application</strong>
                 </p>
             </Row>
             <Row>
-                <Col xs={12} sm={4} md={4}>
+                <Col xs={12} sm={12} md={12} lg={8}>
 
                     <Image fluid thumbnail src={project2pic} alt="..." />
                 </Col>
-                <Col>
+                <Col xs={12} sm={12} md={12} lg={4}>
                     <div>
                         <p className="fs-2">
                             <span className="text-wrap">Full stack MEN - CRUD application that allows a user to create, edit and manage events, venue, and worker information.  A user is able to add/remove information about upcoming and past events/gigs, venue information and workforce contacts.Built using HTML5, CSS3, JavaScript ES6, Mongoose, MongoDB, Express, Node.js, Bootstrap, OAuth</span></p>
