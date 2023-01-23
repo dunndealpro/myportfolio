@@ -1,12 +1,11 @@
-import { Link } from 'react-router-dom';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
 import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
+
 import Navbar from 'react-bootstrap/Navbar';
-import { Col, Row } from 'react-bootstrap';
-import { Routes, Route } from 'react-router-dom'
-import { ArrowRight } from 'react-bootstrap-icons';
+import { Col } from 'react-bootstrap';
+
 
 import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";

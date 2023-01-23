@@ -17,7 +17,7 @@ function NavBar() {
       <Navbar id="navbar" bg="light" expand="lg">
         <Container className='md-col-12 fs-4'>
 
-          <Navbar.Brand className='fs-3' href="/">Evan Dunn</Navbar.Brand>
+          <Navbar.Brand className='fs-3' href="/myportfolio">Evan Dunn</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse >
             {/* <Nav variant="pills" className="me-auto" defaultActiveKey="/">
