@@ -10,7 +10,7 @@ function Projects() {
       <a href="https://github.com/dunndealpro/project-1-Blackjack" target="_blank">Git Hub</a>
       </div>
       <div>
-      Event/Gig Tracker – Full stack MEN - CRUD application that allows a user to create, edit and manage events, venue, and worker information.  A user is able to add/remove information about upcoming and past events/gigs, venue information and workforce contacts.Built using HTML5, CSS3, JavaScript ES6, Mongoose, MongoDB, Node.js, Express, OAuth
+      Event/Gig Tracker – Full stack MEN - CRUD application that allows a user to create, edit and manage events, venue, and worker information.  A user is able to add/remove information about upcoming and past events/gigs, venue information and workforce contacts.Built using HTML5, CSS3, JavaScript ES6, Mongoose, MongoDB, Express, Node.js, Bootstrap, OAuth
       <br />
       <a href="https://vast-meadow-41954.herokuapp.com/" target="_blank">Demo Site</a>
       <br />

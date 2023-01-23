@@ -17,7 +17,7 @@ function ContactMe() {
       </div>
 
       <div>
-      <a href="mailto:dunn.evan.f@gmail.com?subject='I would love to connect!'&body='Great website and portfolio, let's chat!'" target="blank">Click to Send an Email</a>
+      <a href="mailto:dunn.evan.f@gmail.com?subject=I would love to connect!&body=Great website and portfolio, let's chat!" target="blank">Click to Send an Email</a>
       </div>
 
     </div>

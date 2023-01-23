@@ -1,17 +1,36 @@
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col'
+import Image from "react-bootstrap/Image";
+import profilepic from './profile1.png'
 
 
 function Home() {
-    return (
-      <div>
-      <main>
-        
-        Software Engineer - Lighting Designer - Production Manager
-      </main>
+  return (
+    <div>
+      <Container className="p-2">
+        <Row className='m-2 align-items-center'>
+          <Col xs={12} sm={4} md={4}>
+          <Image fluid className='align-items-center' src={profilepic} alt="..." />          
+          </Col>
+          <Col>
+          <div className="text-center">
+            <p className="fs-2 m-1 p-1">
+              Software Engineer - Lighting Designer - Production Manager
+            </p>
+            <p className="fs-3">
+              San Diego, California
+            </p>
+          </div>
+          </Col>
+        </Row>
+      </Container>
 
-      </div>
 
-  
-    );
-  }
-  
-  export default Home;
+    </div>
+
+
+  );
+}
+
+export default Home;
