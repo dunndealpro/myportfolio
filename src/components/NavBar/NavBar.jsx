@@ -33,13 +33,13 @@ function NavBar() {
             </Nav> */}
             <Nav variant="pills" className="me-auto" defaultActiveKey="/">
               <Nav.Item>
-                <Nav.Link offset={-40} href="#aboutme">About</Nav.Link>
+                <Nav.Link  href="#aboutme">About</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link  offset={-70} href="#projects">Projects</Nav.Link>
+                <Nav.Link   href="#projects">Projects</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link offset={-70}  href="#contactme">Contact<i class="bi bi-android"></i></Nav.Link>
+                <Nav.Link   href="#contactme">Contact<i class="bi bi-android"></i></Nav.Link>
               </Nav.Item>
             </Nav>
           </Navbar.Collapse>
