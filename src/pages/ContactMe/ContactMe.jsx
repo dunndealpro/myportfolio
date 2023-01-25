@@ -68,7 +68,7 @@ function ContactMe() {
                 <Card.Text>
                   Work Experience
                 </Card.Text>
-                <a className='btn btn-secondary' href="public/assets/EvanDunnResume01_21_2023.pdf" download>Resume</a>
+                <a className='btn btn-secondary' href="static/assets/Evan Dunn Resume 01.21.2023.pdf"  download>Resume</a>
               </Card.Body>
             </Card>
 
