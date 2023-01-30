@@ -10,8 +10,13 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import { Document } from 'react-pdf';
+import resume from "./Evan_Dunn_Resume_2023.pdf"
 
 function ContactMe() {
+
+ 
+
   return (
     <div>
       <Container  fluid className="mb-5">
@@ -68,7 +73,7 @@ function ContactMe() {
                 <Card.Text>
                   Work Experience
                 </Card.Text>
-                <a className='btn btn-secondary' href="static/assets/Evan Dunn Resume 01.21.2023.pdf"  download>Resume</a>
+                                <a className='btn btn-secondary' href={resume} target="_blank">Resume  </a>
               </Card.Body>
             </Card>
 
