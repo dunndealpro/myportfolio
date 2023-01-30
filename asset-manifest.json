@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.42a37636.css",
-    "main.js": "/myportfolio/static/js/main.05c2e18d.js",
+    "main.js": "/myportfolio/static/js/main.f6c42de7.js",
     "static/media/project3.png": "/myportfolio/static/media/project3.94d6fc8b062eb4fc688c.png",
     "static/media/profile1.png": "/myportfolio/static/media/profile1.9dfb23d186c314258dee.png",
     "static/media/project1.png": "/myportfolio/static/media/project1.ab60bef2c52d5283a898.png",
+    "static/media/Evan_Dunn_Resume_2023.pdf": "/myportfolio/static/media/Evan_Dunn_Resume_2023.cd2c56851e478607d25b.pdf",
     "static/media/project2.png": "/myportfolio/static/media/project2.7b595b11fb2d2cb18f03.png",
     "static/media/Github-circle_(CoreUI_Icons_v1.0.0).svg.png": "/myportfolio/static/media/Github-circle_(CoreUI_Icons_v1.0.0).svg.ebc947d61cfb8b6c968b.png",
     "static/media/emailicon.png": "/myportfolio/static/media/emailicon.a6c36d986570e852e9d0.png",
@@ -12,10 +13,10 @@
     "static/media/img_381039.png.crdownload": "/myportfolio/static/media/img_381039.png.588a412e141f8592edd6.crdownload",
     "index.html": "/myportfolio/index.html",
     "main.42a37636.css.map": "/myportfolio/static/css/main.42a37636.css.map",
-    "main.05c2e18d.js.map": "/myportfolio/static/js/main.05c2e18d.js.map"
+    "main.f6c42de7.js.map": "/myportfolio/static/js/main.f6c42de7.js.map"
   },
   "entrypoints": [
     "static/css/main.42a37636.css",
-    "static/js/main.05c2e18d.js"
+    "static/js/main.f6c42de7.js"
   ]
 }
