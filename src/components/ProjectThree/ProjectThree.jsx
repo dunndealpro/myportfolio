@@ -10,7 +10,7 @@ function ProjectThree() {
     return (
         <div>
             <Row>
-                <p className="fs-1">
+                <p className="fs-2">
                     MyWatch List – <strong>Full Stack MERN CRUD SPA</strong>
                 </p>
             </Row>

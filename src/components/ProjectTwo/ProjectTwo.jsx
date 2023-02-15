@@ -10,7 +10,7 @@ function ProjectTwo() {
     return (
         <div>
             <Row>
-                <p className="fs-1">
+                <p className="fs-2">
                 Event/Gig Tracker – <strong>Full Stack MEN - CRUD application</strong>
                 </p>
             </Row>

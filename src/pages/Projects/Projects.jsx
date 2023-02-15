@@ -15,7 +15,9 @@ function Projects() {
       <Container>
         <h1>Projects</h1>
         <ProjectOne/>
+        <br/>
         <ProjectTwo/>
+        <br/>
         <ProjectThree/> 
         <div>
         </div>
