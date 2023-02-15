@@ -23,7 +23,7 @@ function App() {
         <Route path="/projects" element={<Projects/>} />
         <Route path="/contactme" element={<ContactMe />} />
       </Routes> */}
-      <div data-bs-spy="scroll" data-bs-target="navbar" data-bs-root-margin="0px 0px 40%" data-bs-smooth-scroll="true" data-bs-offset="-40" className="scrollspy-navbar bg-light p-3 rounded-2" tabindex="0">
+      <div data-bs-spy="scroll" data-bs-target="navbar"  data-bs-smooth-scroll="true" className="scrollspy-navbar bg-light p-3 rounded-2" tabindex="0">
       <div id="home" className='m-1'>
         <Home />
       </div>
