@@ -21,7 +21,6 @@ function Projects() {
         <ProjectThree/> 
         <div>
         </div>
-
       </Container>
     </div >
 

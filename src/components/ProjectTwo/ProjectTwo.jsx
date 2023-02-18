@@ -10,19 +10,15 @@ function ProjectTwo() {
     return (
         <div>
             <Row>
-                <p className="fs-2">
-                Event/Gig Tracker – <strong>Full Stack MEN - CRUD application</strong>
-                </p>
+                <p className="fs-2">Event/Gig Tracker – <strong>Full Stack MEN - CRUD application</strong></p>
             </Row>
             <Row>
                 <Col xs={12} >
-
                     <Image fluid thumbnail src={project2pic} alt="..." />
                 </Col>
                 <Col xs={12} >
                     <div>
-                        <p className="fs-2">
-                            <span className="text-wrap">Full stack MEN - CRUD application that allows a user to create, edit and manage events, venue, and worker information.  A user is able to add/remove information about upcoming and past events/gigs, venue information and workforce contacts. Built using HTML5, CSS3, JavaScript ES6, Mongoose, MongoDB, Express, Node.js, Bootstrap, OAuth</span></p>
+                        <p className="fs-2"><span className="text-wrap">Full stack MEN - CRUD application that allows a user to create, edit and manage events, venue, and worker information.  A user is able to add/remove information about upcoming and past events/gigs, venue information and workforce contacts. Built using HTML5, CSS3, JavaScript ES6, Mongoose, MongoDB, Express, Node.js, Bootstrap, OAuth</span></p>
                         <div>
                             <br></br>
                             <a className="btn btn-primary btn-lg m-2" href="https://vast-meadow-41954.herokuapp.com/" target="_blank">Demo Site</a>

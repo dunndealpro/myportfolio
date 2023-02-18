@@ -15,21 +15,13 @@ function Home() {
           </Col>
           <Col>
           <div className="text-center">
-            <p className="fs-2 m-1 p-1">
-              Software Engineer - Lighting Designer - Production Manager
-            </p>
-            <p className="fs-3 fw-semibold">
-              San Diego, California
-            </p>
+            <p className="fs-2 m-1 p-1">Software Engineer - Lighting Designer - Production Manager</p>
+            <p className="fs-3 fw-semibold">San Diego, California</p>
           </div>
           </Col>
         </Row>
       </Container>
-
-
     </div>
-
-
   );
 }
 

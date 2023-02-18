@@ -15,18 +15,16 @@ import resume from "./Evan_Dunn_Resume_2_17_2023.pdf"
 
 function ContactMe() {
 
- 
+
 
   return (
     <div>
-      <Container  fluid className="mb-5">
+      <Container fluid className="mb-5">
         <Row>
-        <h1>Contact</h1>
+          <h1>Contact</h1>
         </Row>
         <Row>
-          <Col  xs={12} sm={4} md={3}>
-
-            
+          <Col xs={12} sm={4} md={3}>
             <Card className="p-2 m-2" style={{ width: '18rem' }}>
               <Card.Img variant="top" src={linkedInpic} />
               <Card.Body>
@@ -39,7 +37,7 @@ function ContactMe() {
             </Card>
           </Col>
 
-          <Col  xs={12} sm={4} md={3}>
+          <Col xs={12} sm={4} md={3}>
             <Card className="p-2 m-2" style={{ width: '18rem' }}>
               <Card.Img variant="top" src={gitHubpic} />
               <Card.Body>
@@ -73,22 +71,14 @@ function ContactMe() {
                 <Card.Text>
                   Work Experience
                 </Card.Text>
-                                <a className='btn btn-secondary' href={resume} target="_blank">Resume  </a>
+                <a className='btn btn-secondary' href={resume} target="_blank">Resume  </a>
               </Card.Body>
             </Card>
-
           </Col>
+
         </Row>
-
-
-
-
-
-
-
       </Container >
     </div>
-
   );
 }
 
