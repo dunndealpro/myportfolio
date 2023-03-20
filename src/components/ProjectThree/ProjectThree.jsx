@@ -15,7 +15,7 @@ function ProjectThree() {
                 </Col>
                 <Col xs={12}>
                     <div>
-                        <p className="fs-2"><span className="text-wrap">Full stack MERN CRUD SPA where a user search for movies, tv shows and actors to add to a "MyWatch" list. Users can create, read, update and delete lists of movies or tv shows that they have watched or need to watch. Users can also create comments for their their favorite actors, movies and shows. Built using Mongoose, MongoDB, Express, React, Node.js, Bootstrap, HTML5, CSS3, JavaScript ES6, Token-Based Authentication</span>
+                        <p className="fs-2"><span className="text-wrap">Full stack MERN CRUD SPA where a user can search for movies, tv shows and actors to add to a "MyWatch" list. Users can create, read, update and delete lists of movies or tv shows that they have watched or need to watch. Users can also create comments for their their favorite actors, movies and shows. Built using Mongoose, MongoDB, Express, React, Node.js, Bootstrap, HTML5, CSS3, JavaScript ES6, Token-Based Authentication</span>
                             <br /><br />
                             <span>Try the app using the demo account or create your own!</span>
                             <li>User email: demo@user.com</li>

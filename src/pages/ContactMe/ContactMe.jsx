@@ -11,7 +11,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Document } from 'react-pdf';
-import resume from "./Evan_Dunn_Resume_2_17_2023.pdf"
+import resume from "./Evan_Dunn_Resume_2023.pdf"
 
 function ContactMe() {
 
