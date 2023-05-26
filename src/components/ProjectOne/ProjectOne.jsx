@@ -14,13 +14,16 @@ function ProjectOne() {
             </Row>
             <Row>
                 <Col xs={12} >
-                    <Image fluid thumbnail src={project1pic} alt="..." />
+                    <a href="https://dunndealpro.github.io/project-1-Blackjack/" target="_blank">
+
+                        <Image fluid thumbnail src={project1pic} alt="..." />
+                    </a>
                 </Col>
                 <Col xs={12} >
                     <div>
                         <p className="fs-2">
                             <span className="text-wrap">Single page web application featuring a fun take on the classic card game.  Built using HTML5, CSS3, JavaScript ES6</span></p>
-                        <div>                            
+                        <div>
                             <a className="btn btn-primary btn-lg m-2" href="https://dunndealpro.github.io/project-1-Blackjack/" target="_blank">Demo Site</a>
                             <a className="btn btn-primary btn-lg m-2" href="https://github.com/dunndealpro/project-1-Blackjack" target="_blank">Git Hub</a>
                         </div>

@@ -17,11 +17,14 @@ function Projects() {
         <h1>Projects</h1>
         <TurtleGame/>
         <br />
+        <hr />
+        <ProjectThree/> 
+        <br/>
+        <hr />
         <ProjectOne/>
         <br/>
+        <hr />
         <ProjectTwo/>
-        <br/>
-        <ProjectThree/> 
         <div>
         </div>
       </Container>

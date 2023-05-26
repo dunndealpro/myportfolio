@@ -2,6 +2,7 @@ import Col from 'react-bootstrap/Col'
 import Image from "react-bootstrap/Image";
 import Row from 'react-bootstrap/Row';
 import turtlaGamePic from './winner1.PNG';
+import { Link } from 'react-bootstrap-icons';
 
 
 function TurtleGame() {
@@ -14,7 +15,9 @@ function TurtleGame() {
             </Row>
             <Row>
                 <Col xs={12} >
+                    <a href="https://turtle-game.herokuapp.com/" target='blank'>
                     <Image fluid thumbnail src={turtlaGamePic} alt="..." />
+                    </a>
                 </Col>
                 <Col xs={12} >
                     <div>

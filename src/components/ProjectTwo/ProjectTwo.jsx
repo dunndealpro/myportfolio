@@ -14,7 +14,9 @@ function ProjectTwo() {
             </Row>
             <Row>
                 <Col xs={12} >
+                    <a href="https://vast-meadow-41954.herokuapp.com/" target="_blank">
                     <Image fluid thumbnail src={project2pic} alt="..." />
+                    </a>
                 </Col>
                 <Col xs={12} >
                     <div>

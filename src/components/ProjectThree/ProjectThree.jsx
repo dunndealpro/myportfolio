@@ -11,7 +11,9 @@ function ProjectThree() {
             </Row>
             <Row>
                 <Col xs={12}>
+                    <a href="https://enigmatic-beach-61745.herokuapp.com/" target="_blank">
                     <Image fluid thumbnail src={project3pic} alt="..." />
+                        </a>
                 </Col>
                 <Col xs={12}>
                     <div>
