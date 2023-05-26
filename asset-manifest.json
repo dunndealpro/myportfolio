@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.42a37636.css",
-    "main.js": "/myportfolio/static/js/main.3eba016d.js",
+    "main.js": "/myportfolio/static/js/main.bdf8a605.js",
     "static/media/DSC_2560.jpg": "/myportfolio/static/media/DSC_2560.6a9abe03abdbd7edd6e7.jpg",
     "static/media/p3-landing.PNG": "/myportfolio/static/media/p3-landing.f7c8efb8aabbf3f9f94a.PNG",
     "static/media/project1.png": "/myportfolio/static/media/project1.ab60bef2c52d5283a898.png",
-    "static/media/Evan_Dunn_Resume_2023.pdf": "/myportfolio/static/media/Evan_Dunn_Resume_2023.4ee6734372cfc9828b53.pdf",
+    "static/media/Evan_Dunn_Resume_2023.pdf": "/myportfolio/static/media/Evan_Dunn_Resume_2023.55e1dbb18a8ca9014994.pdf",
     "static/media/project2.png": "/myportfolio/static/media/project2.7b595b11fb2d2cb18f03.png",
     "static/media/Github-circle_(CoreUI_Icons_v1.0.0).svg.png": "/myportfolio/static/media/Github-circle_(CoreUI_Icons_v1.0.0).svg.ebc947d61cfb8b6c968b.png",
+    "static/media/winner1.PNG": "/myportfolio/static/media/winner1.c80fcdbc378feac4ca6c.PNG",
     "static/media/emailicon.png": "/myportfolio/static/media/emailicon.a6c36d986570e852e9d0.png",
     "static/media/LinkedIn_icon_circle.svg.png": "/myportfolio/static/media/LinkedIn_icon_circle.svg.c98fb3b64eecd80d2ca1.png",
     "static/media/img_381039.png.crdownload": "/myportfolio/static/media/img_381039.png.588a412e141f8592edd6.crdownload",
     "index.html": "/myportfolio/index.html",
     "main.42a37636.css.map": "/myportfolio/static/css/main.42a37636.css.map",
-    "main.3eba016d.js.map": "/myportfolio/static/js/main.3eba016d.js.map"
+    "main.bdf8a605.js.map": "/myportfolio/static/js/main.bdf8a605.js.map"
   },
   "entrypoints": [
     "static/css/main.42a37636.css",
-    "static/js/main.3eba016d.js"
+    "static/js/main.bdf8a605.js"
   ]
 }
